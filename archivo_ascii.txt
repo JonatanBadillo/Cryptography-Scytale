@@ -1,0 +1,1125 @@
+                                                                                              REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+
+
+
+ALGUNAS RELACIONES CONYUGALES
+                                                                                José Joaquín Parra-Bañón
+                                                                                orcid: 0000-0002-2147-0306
+                                                                                Universidad de Sevilla (España)
+
+
+ENTRE LA ARQUITECTURA Y EL ARTE
+                                                                                jjpb@us.es
+
+
+
+SOME MARITAL RELATIONS BETWEEN
+ARCHITECTURE AND ART
+
+
+
+
+Cómo citar:                  resumen                                            abstract
+Parra-Bañón, J. J. (2022).   Con el propósito de poner en púdica                With the purpose of putting in modest
+Algunas relaciones           evidencia y analizar algunas de las relaciones     evidence and analyzing some of the most
+conyugales entre la          más intensas, prolíficas y vigentes entre          intense, productive and current relationships
+arquitectura y el arte.      la arquitectura y ciertas manifestaciones          between architecture and certain artistic
+Revista de Arquitectura,     artísticas, se selecciona una serie de ocho        manifestations, a series of eight exemplary
+27(43), 8-27.                casos ejemplares en los que los límites            cases is selected in which the classic limits
+https://doi.org/10.5354/     clásicos entre las distintas disciplinas se        between the different disciplines dissipate.
+0719-5427.2022.68073         disipan. En la obra de Donald Judd toda            In Donald Judd's work, every plastic piece is
+                             pieza plástica es al mismo tiempo artefacto        at the same time object and building, space
+                             y edificio, espacio y atmósfera. La Casa de        and atmosphere. The Chilean Glass House,
+                             vidrio chilena, grávida de Daniella Tobar,         pregnant with Daniella Tobar, makes the
+Recibido:                    transparenta la habitación y la transforma         room transparent and transforms it into
+25 de agosto de 2022         en escenario: convierte la vida ermitaña en        a stage: it turns hermit life into a show.
+Aceptado:                    espectáculo. La estudiante de arquitectura         Guatemalan architecture student Rogelia
+18 de octubre de 2022        guatemalteca Rogelia Cruz incorpora a              Cruz incorporates violence into the protest
+                             la acción reivindicativa de los lugares la         action of places: she inoculates politics into
+                             violencia: inocula la política a la arquitectura   architecture intravenously. The destroyer
+                             por vía intravenosa. El arquitecto destructor      architect Mohamed Atta, with his terrorist
+                             Mohamed Atta, con sus procedimientos               procedures, supplies arguments to war and
+                             terroristas, le suministra argumentos a            materials and images to art. Nenrod, the
+                             la guerra y materiales e imágenes al arte.         ideologue of the Tower of Babel, emerges from
+                             Nenrod, el ideólogo de la Torre de Babel,          the past demanding that the words of Genesis
+                             emerge del pasado exigiendo que las palabras       that define it transcend in figures, in forms, in
+                             del Génesis que la definen trasciendan             architectural appearances. Lara Almacegui
+                             en figuras, en formas, en apariencias              documents, as Kafka and Matta-Clark
+                             arquitectónicas. Lara Almacegui documenta,         already did, the process of decomposition
+                             como ya hicieran Kafka y Matta-Clark, el           and disappearance of a house in Otwock, and
+                             proceso de descomposición y desaparición           Soledad Sevilla returns the memory of her
+                             de una casa en Otwock, y Soledad Sevilla le        patio looted to a castle in Vélez Blanco.
+                             devuelve la memoria de su patio expoliado
+                             a una fortaleza en Vélez Blanco.
+
+                             palabras clave                                     keywords
+                             Antigrafía, Donald Judd, Francisco de              Antigraphy, Donald Judd, Francisco de
+                             Holanda, Lara Almacegui, Soledad Sevilla           Holanda, Lara Almacegui, Soledad Sevilla
+
+
+8
+#43 · DICIEMBRE 2022
+
+                                                        HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                       PARRA-BAÑÓN, J. J.
+
+
+
+
+                                  “Y quien más se acerque a la misma Antigüedad hallará que tanto la pintura
+                                 como la escultura fueron llamadas pintura, y que en tiempos de Demóstenes
+                                   usaban antigrafía, que tanto quiere decir dibujar como escribir y era verbo
+                                                                                común para ambas ciencias”.
+
+
+                                                                                     De Holanda (2018, p. 93).
+
+
+
+
+                       INTRODUCCIÓN (antigrafía)
+                       Hubo una época remota en la que los saberes y las disciplinas aún
+                       no se habían divorciado, en la que las artes no eran todavía las ramas
+                       diferenciadas de un mismo árbol centrípeto y todavía formaban
+                       entretejidas un único tronco bien enraizado. No había aún
+                       asignaturas, sectas, epítetos. Miguel Ángel Buonarroti era al mismo
+                       tiempo poeta, dibujante, pintor, arquitecto, escultor, urbanista
+                       y escenógrafo. Proyectaba escaleras como si esculpiera y caligrafiaba
+                       dibujando signos, figuras o tormentas. El arca que inventó para
+                       el diluvio genésico en la bóveda de la Capilla Sixtina no es una nave
+                       sino un edificio de planta cuadrada. El pintor, ilustrador, ensayista,
+                       arquitecto, astrólogo, diplomático y político portugués llamado
+                       Francisco de Holanda (1517-1584), apoyándose en los grecolatinos
+                       y forzando la etimología, llamó antigraphia a esa actividad común.
+                       En sus Diálogos de Roma (2018) —obra que forma parte de su ensayo
+                       Da Pintura Antiga, 1548— consideró que la antigrafía era esa unidad,
+                       ese punto de partida o ese lugar de encuentro, esa comunidad de
+                       acciones creativas en la que cada idea hallaba la forma más apropiada
+                       para manifestarse y el conjunto de actos más adecuados para revelarse.
+
+                       Después Richard Wagner (2007), reclamando la síntesis reivindicada
+                       portuguesamente tres siglos antes por Holanda, formulará en La obra
+                       de arte del futuro (publicada originalmente en 1849) su teoría acerca
+                       de la Gesamtkunstwerk: proclamará su romántica pretensión de un
+                       'arte total' que resultara del sumatorio, más o menos armónico,
+                       de media docena de disciplinas artísticas afines (selección de la que
+                       no formaba parte toda la literatura: solo lo hacía el subconjunto de
+                       ella que es la poesía). Desde que el arte comenzó a adquirir el estatus
+                       de teoría general y empezó a ser condicionado por sus postulados,
+                       los teóricos (algunos de ellos también artistas) han oscilado
+                       periódicamente entre una ambición totalitaria e integradora (la
+                       insaciable libido de completitud) y el deseo de fragmentación
+                       y dispersión (el anhelo de diferenciación). Así, los historiadores de
+                       las ideas y los estudiosos del devenir de los fundamentos estéticos
+                       en Occidente (Marchan-Fiz, 2008) han puesto de manifiesto cómo,
+                       en cada uno de sus ciclos, el arte teórico (en mayor medida que el
+                       puesto en práctica) se ha ido desplazando desde el reclamo de unidad
+                       y unanimidad (renacimientos, vanguardias) a la intransigente
+                       exigencia de multiplicidad y de heterogeneidad (ilustraciones,
+
+
+                                                                                                            9
+                                                                                  REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                            contemporaneidades). Verónica Gerber Bicecci, una de las nuevas
+                                            antígrafas mejicanas que aúna en su obra, entreverándolas, la
+                                            expresión gráfica y la literaria, propugna en sus ensayos (Gerber,
+                                            2021) no la reunificación y reconciliación romántica de las artes, sino
+                                            la abolición de las viejas categorías por considerarlas hoy obsoletas,
+                                            improductivas, sectarias: un lastre.
+
+                                            En la actualidad son numerosas las creadoras y los creadores que
+                                            reivindican y ponen en práctica la teoría germinal de Francisco
+                                            de Holanda; los artistas que quiebran los límites disciplinares
+                                            y adquieren patentes industriales (“Vantablack” por Anish Kapoor)
+                                            o descubren partículas subatómicas; que dirigen películas como
+                                            si dirigieran obras de ingeniería civil; que fotografían, incendian,
+                                            alteran el orden natural de las cosas y descomponen la realidad sin
+                                            someterse a ataduras profesionales, y así, un día separan las aguas
+                                            de los gases del cielo y otro les dan vida a los animales. Algunas
+                                            relaciones conyugales entre la arquitectura y el arte se interesan,
+                                            en este sentido, por la antigrafía como el lugar híbrido en el que la
+                                            arquitectura mantiene relaciones íntimas, carnales y estimulantes,
+                                            con otras artes plásticas vecinas y propicias. En el que la arquitectura
+                                            se ofrece a ser usada como instrumento, como medio, como campo
+                                            de experimentación por otras actividades imaginativas y productivas
+                                            que se apropian y se benefician lícitamente de ella, que la hacen suya
+                                            y la integran en sus repertorios sin atender a discriminaciones.
+
+                                            MÉTODO (continuidad y comparación)
+                                            En el seno de este escueto ensayo se analizan algunas ideas y algunas
+                                            obras materializadas en las que la arquitectura está presente no como
+                                            escenario mudo, sino como protagonista de la acción. Se selecciona
+                                            una nómina de autores, de artistas, de piezas o de intervenciones,
+                                            sin atender a la cronología, y se aspira a poner de manifiesto cómo
+                                            el deseo de disolución de las disciplinas artísticas ha afectado a las
+                                            relaciones afectivas que hoy mantienen las artes (en general, sin
+                                            adjetivar) con ese modo de transformación de la realidad que aún
+                                            convenimos en llamar arquitectura.
+
+                                            Se propone una serie, una secuencia, en la que los diversos casos
+                                            ejemplares elegidos como muestrario son hilados, cosidos, cada
+                                            uno de ellos puesto en relación con los más próximos. Donald Judd
+                                            conduce a Daniella Tobar y esta a Rogelia Cruz; y de aquí a Mohamed
+                                            Atta, que retrotrae la historia hasta Babel, y luego progresa hacia
+                                            Lara Almacegui, para desde Polonia volver a Texas y desde allí
+                                            saltar atlánticamente con Soledad Sevilla hasta Vélez Blanco. Es en
+                                            la idea de contigüidad, de transfusión, en la que se fundamenta la
+                                            metodología empleada; también en la de comparación (en su
+                                            acepción lingüística). El texto plantea un relato que está
+                                            puntualmente iluminado por parejas de imágenes alusivas,
+
+
+10
+#43 · DICIEMBRE 2022
+
+                                                                                              HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                                                       PARRA-BAÑÓN, J. J.
+
+
+
+
+                                                  Figura 1
+               Torres babélicas poligonales en construcción
+
+
+
+
+      Nota. Cuatro torres de Babel antes de su destrucción
+   pintadas en manuscritos: en el folio 29r de Compilación
+      de crónicas mundiales en verso, h. 1370-75 (Biblioteca
+         Estatal de Baviera); en el folio 17v de la Crónica de
+        Núremberg de Hartmann Schedel, 1493 (Bayerische
+Staatsbibliothek); en el folio 28v de la Crónica universal en
+  verso a la muerte de Carlomagno, Ratisbona, h. 1360 (The
+     Pierpont Morgan Library) y en el folio 19r de Histoire
+      Ancienne, s. XV (Bibliothèque nationale de France)1.
+
+
+                                                                 metafóricas. En cada fragmento se abre, así, una ventana múltiple
+                                                                 (Figura 1).
+
+                                                                 Donald Judd en Spring Street
+                                                                 En 1968, Donald Judd (1928-1994) y su esposa Julie Finch, bailarina,
+                                                                 coreógrafa y cofundadora del movimiento Artists Against the
+                                                                 Expressway, compraron en Nueva York, en el SoHo, un edificio
+                                                                 de cinco plantas situado en el 101 de Spring Street, esquina con
+                                                                 Mercer Street. El inmueble había sido proyectado por Nicholas
+                                                                 Whyte. Fue construido en 1870 con estructura metálica, con pilares,
+                                                                 columnas y vigas prefabricadas de hierro fundido o acero laminado
+                                                                 que, además de sostener en pie el edificio, lo revestían y lo
+                                                                 caracterizaban. Estos elementos constructivos se exteriorizaron
+                                                                 en las fachadas y a ellos se añadieron cornisas, aleros, entablamentos,
+                                                                 frontones, metopas, dinteles y capiteles de inspiración grecolatina,
+                                                                 escaleras de evacuación de incendios y las carpinterías de los sesenta
+                                                                 y cinco orificios (trece por planta) que se abrían en sus dos frentes
+                                                                 ortogonales. El prisma ocupaba un rectángulo de 75 x 25 pies
+                                                                 y tenía, además, dos sótanos.
+
+                                                                 Este fue el primer edificio propiedad de Judd. Lo utilizó como
+                                                                 vivienda familiar (del matrimonio y sus dos hijos) y como taller.
+                                                                 El estudio de baile de Julie Finch ocupaba una de las plantas
+                                                                 inferiores. Desde allí ambos se opusieron al proyecto incluido en
+                                                                 el Plan Robert Moses de construir la “Autopista del Bajo Manhattan”
+                                                                 porque pensaban que arrasaría la prolífica comunidad de artistas
+                                                                 que allí comenzaba a asentarse.
+
+                                                                 El interés de Judd por la arquitectura afectaba ya entonces al
+                                                                 patrimonio y a la ciudad, a la naturaleza de los materiales de
+                                                                 construcción y al problema del urbanismo depredador: atendía a
+1 Las figuras de este artículo que, cual digresiones y
+excursos, proponen un trayecto complementario al del             cualquier escala y a todas sus apariencias. La indiferenciación entre
+texto, son obras autónomas compuestas en 2022 por el             el arte, la arquitectura y el medio ambiente era para él un concepto
+autor como collages a partir de la alteración y la
+combinación de otras procedentes de las fuentes referidas
+                                                                 básico (Yarinsky, 2021). En esta sede central, desde este lugar
+en las notas a pie de imágenes o disponibles en internet.        privilegiado, Judd integró a la arquitectura en su producción, y allí
+
+
+                                                                                                                                         11
+                                                                                   REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                            le dio lugar a objetos que la incorporaban. Entre los dos, y con ideas
+                                            formuladas por ambos, reformaron y rehabilitaron ese singular
+                                            edificio, sin apenas alterar la fachada y la distribución, manteniendo el
+                                            gris industrial, casi de navío de guerra, que aún hoy puede apreciarse.
+
+                                            El dormitorio estaba situado en el último piso. La cama ocupaba el
+                                            centro de la habitación, horadada por grandes ventanales, ambientada
+                                            con piezas del artista y con otras ajenas de su colección. Contrasta,
+                                            confunde, aturde ver el edificio restaurado en el año 2000 como si se
+                                            tratara del Partenón ateniense y compararlo con la guarida minúscula,
+                                            con la ermita profunda de Alberto Giacometti en la rue Hippolyte
+                                            Maindron de París. Este lugar regenerador fue para él y para su
+                                            creación un espacio propicio en el que contener y exhibir sus piezas
+                                            desmedidas, donde albergar los muebles casi monacales que diseñó,
+                                            así como las obras de Chamberlain, Flavin, Novros, Oldenburg y, entre
+                                            otros de sus afines, Frank Stella. Este cobijo metálico, este andamio de
+                                            hierro, esta secuencia de espacios diáfanos afectó a las obras que
+                                            dentro de él concibió (a sus cajas de acero, a sus cubos de cobre, a sus
+                                            prismas de aluminio y a sus fragmentos de tubos de hormigón). Este
+                                            contenedor horadado por grandes ventanales con ambición de
+                                            balcones es una de las piezas, siempre sin título, de este arquiescultor.
+
+                                            La Judd Foundation restauró el edificio del 101 Spring Street para
+                                            convertirlo en una de sus sedes oficiales; lo abrió al público en 2013.
+                                            Esta es otra de las casas de un artista que han sido transformadas en
+                                            museo, una de las estadounidenses incluidas en el Registro Nacional
+                                            de Lugares Históricos.
+
+                                            En 1989 Judd escribió acerca de este bloque:
+
+                                                      Pensé que el edificio debería de ser reparado y que, en lo
+                                                      básico, no habría que modificarlo … Con toda probabilidad
+                                                      cada uno de los pisos originalmente carecía de tabiques y
+                                                      de paredes separadoras en dependencias menores, por lo
+                                                      que tras la reforma cada piso debía tener un propósito
+                                                      particular: uno para dormir, otro para comer, otro para
+                                                      trabajar. Las características que le exigía a la reforma eran
+                                                      elementales: las plantas debían estar abiertas; no se podía
+                                                      interrumpir la percepción de las ventanas situadas en
+                                                      ángulo recto ... Mis exigencias eran que el edificio fuera útil
+                                                      tanto para vivir como para trabajar y, lo que es más
+                                                      importante, que fuera un espacio en el que poder mostrar
+                                                      mi trabajo y la obra de otros (Judd, 2021, s.p.).
+
+                                            La casa-taller-salón de danza también tenía que servir de galería
+                                            de arte, de sala de exposiciones. El 101 de Spring Street es una obra de
+                                            Donald Judd, un caso de apropiación (no muy distante de L.H.O.O.Q.:
+
+
+12
+#43 · DICIEMBRE 2022
+
+                                                                                          HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                                                   PARRA-BAÑÓN, J. J.
+
+
+
+
+                                                Figura 2
+                               Dos dormitorios en tránsito
+
+
+
+
+          Nota. Dormitorio de María de Nazaret en Andrea
+   Mantegna. Tránsito de la virgen, h.1462. Técnica mixta
+      sobre tabla, 54,5 x 42 cm. Museo Nacional del Prado
+(Madrid), y dormitorio de Donald Judd en la quinta planta
+    del 101 de Spring Street, Nueva York, fotografiado por
+                                       Elizabeth Felicella.
+
+
+                                                              de Marcel Duchamp añadiéndole unos bigotes a La Gioconda):
+                                                              a él, y no a Nicholas Whyte, se debe su fama. La apropiación de la
+                                                              arquitectura es una práctica artística contemporánea: la apropiación
+                                                              y posterior intervención en ella, una de las más pujantes estrategias
+                                                              plásticas en la actualidad. Las formas de apropiación y los modos
+                                                              de intervención son múltiples y heterogéneos: ocupación,
+                                                              fragmentación, vivisección, decoración, recubrimiento, incineración,
+                                                              destrucción, etc. Gordon Matta-Clark lo hacía de una manera y Lara
+                                                              Almacegui lo hace de otra. Sol LeWitt hace que otros dibujen en sus
+                                                              paredes y Soledad Sevilla proyecta memorias en ellas. Louise
+                                                              Bourgeois se pasó la vida construyendo versiones celulares de la casa
+                                                              francesa de su infancia y Daniella Tobar pasó unos días del verano
+                                                              del año 2000 viviendo pública y escandalosamente en una casa
+                                                              de vidrio levantada en un solar baldío de Santiago de Chile. En
+                                                              ocasiones, la arquitectura es la víctima propiciatoria, el fármaco
+                                                              etimológico que se sacrifica: la tramoya y la trama (Figura 2).
+
+                                                              Daniella Tobar en el escaparate
+                                                              El caso de la Casa de vidrio chilena hay que enmarcarlo en el núcleo
+                                                              del conflicto perpetuo, en la pugna que mantienen desde el origen la
+                                                              arquitectura y la transparencia. “Los arquitectos racionalistas no se
+                                                              imaginan siquiera la parte de culpa que tienen en la muerte del
+                                                              dramatismo”, se lamentaba Alberto Savinio en su Nueva enciclopedia
+                                                              (Savinio, 1997, p. 145). También hay que situarlo en ese territorio
+                                                              intermedio en el que la arquitectura y la escultura mantienen
+                                                              relaciones físicas: en el que ambas se funden y se transforman en
+                                                              escenario. En un escenario sin telón de fondo en el que los personajes
+                                                              que actúan son, de algún modo, títeres, autómatas, máquinas,
+                                                              estatuas dotadas de movimiento (Parra-Bañón, 2022). La mujer, la
+                                                              mártir que estuvo enjaulada en la casa transparente actuando como
+                                                              si así procediera en su vida ordinaria, fue contratada no como actriz
+                                                              sino como escultura viviente. Su trabajo consistía en estar dentro de
+                                                              una vitrina, de una pecera sin agua, pero con tapadera: de un
+                                                              escaparate performativo.
+
+
+                                                                                                                                    13
+                                                                                   REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                            La Casa de vidrio chilena fue proyectada por los arquitectos Arturo
+                                            Torres y Jorge Christie y construida como resultado de una
+                                            propuesta artística a la que denominaron Nautilus. Su edificación
+                                            cuadruplicó el presupuesto inicial, aportado por el Fondo Nacional
+                                            de Desarrollo Cultural y las Artes, al que habían postulado en la línea
+                                            de “Artes integradas” ya que entonces el Fondart carecía de una
+                                            categoría específica para Arquitectura. Se trataba de financiar con
+                                            recursos públicos destinados a la investigación cultural la
+                                            construcción de un escenario con apariencia de casa para que allí
+                                            residiera una sola persona, de modo que su vivencia pudiera ser
+                                            observada por unos espectadores casuales que no pagarían entrada:
+                                            por transeúntes curiosos que tal vez mirarían lo que ocurría allí
+                                            dentro. Los arquitectos, los artistas, antes de arruinarse con la
+                                            iniciativa, inscribieron su obra en el Registro de Propiedad
+                                            Intelectual con la denominación de Nautilus, la casa transparente
+                                            para armar en un lote suburbano.
+
+                                            Para amortizar la deuda, tuvieron que poner a la venta la pieza: una
+                                            estructura de acero, con suelo y muebles de madera, cubierta con
+                                            chapa ondulada y con todas las paredes de vidrio fijado con pernos.
+                                            La superficie de esta urna no superaba los doce metros cuadrados.
+                                            Pujaron por ella un coleccionista extranjero y el fotógrafo, pintor de
+                                            cuerpos y empresario, Roberto Jorge Edwards Eastman (1937-2022),
+                                            quien también había estudiado arquitectura, y que acabaría
+                                            adquiriéndola como si se tratara de una meritoria obra artística: de
+                                            una celda/célula de Louise Bourgeois o de una versión negativa de
+                                            Étant donnés. La compró una vez clausurada y la montó en su antiguo
+                                            taller de calle Santa María, en Providencia.
+
+                                            El artefacto se armó originalmente en Santiago de Chile en el verano
+                                            del año 2000, en un solar yermo situado frente a la Bolsa de Comercio
+                                            y a la Iglesia de las Agustinas, que fue alquilado a una empresa de
+                                            seguros. En su interior debía de residir durante un mes, a partir del
+                                            sábado 22 de enero, una estudiante de teatro de la Universidad de
+                                            Chile llamada Daniella Tobar, de veinte años, a la vista de quien
+                                            quisiera asomarse desde la valla que la defendía de la calle
+                                            interesándose por lo que una persona hace ordinariamente en la
+                                            intimidad de su domicilio. Solo pudo resistir (ducharse, dormir,
+                                            alimentarse, estar, excretar, escribir, enjabonarse, etc.), debido al
+                                            escándalo público que suscitó su desnudez y a las denuncias de los
+                                            conservadores más radicales, durante cinco días. La custodia para el
+                                            cuerpo femenino era un acuario de aire, levantado con patas de
+                                            insecto sobre el suelo sin cultivar, que carecía de ventanas. Doce
+                                            tubos de acero, doce columnas perimétricas formaban el armazón.
+                                            Ella podía sacar una silla al exterior y, como demuestran las
+                                            fotografías y los videos de la época, ajena a la polémica sobre el poder
+                                            de la censura o acerca de los límites de la modernidad en Chile, al
+
+
+14
+#43 · DICIEMBRE 2022
+
+                                                    HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                             PARRA-BAÑÓN, J. J.
+
+
+
+
+                       margen de las especulaciones a propósito del voyerismo y
+                       olvidándose de Marina Abramović, sentarse a leer, convirtiendo
+                       la vida privada en un espectáculo público, transformando el
+                       contenedor (incluido el inodoro de porcelana albina) en una
+                       escultura habitada. La casa, en definitiva, hecha caja, o cajón.
+                       Pedro Lemebel opinó que, en vez de haber contratado a una
+                       estudiante para que actuara, quienes deberían haber vivido en ese
+                       experimento formal eran los propios arquitectos (formados científica
+                       y éticamente en la Pontificia Universidad Católica) acompañados por
+                       sus esposas. Unos días después de que Daniella Tobar huyera de ella,
+                       como huyeron Irene y su hermano de la Casa tomada de Cortázar, la
+                       guarida mínima del inhóspito baldío santiaguino fue ocupada por
+                       el actor Víctor Ogaz, de 46 años, quien tampoco llegó a resistir allí
+                       expuesto ni siquiera una semana. Se habló incluso de pornografía,
+                       afirmó Daniella en una entrevista veinte años después. Y añadió:
+
+                                Yo me veo a mí ducharme, y creo que todos nos duchamos
+                                más o menos parecido. En ningún momento hice gestos
+                                ni posturas ni caras que pudieran tener relación con
+                                la pornografía. Eso fue bastante brutal. La mirada
+                                pornográfica es de quien lo ve, no de la persona que hace
+                                la performance (Bahamondes, 2020, s.p.).
+
+                       Fue aquella una obra política que tuvo por objeto la arquitectura.
+                       Ideológica y geográficamente política. No era la casa que Marcel
+                       Breuer expuso en el jardín del MoMA en 1949 ni la Glass House con
+                       la que Philip Johnson se exhibió aristocráticamente en New Canaan
+                       ante el mundo. En la ermita austral confluyeron, intencionada o
+                       casualmente, una buena parte de las disciplinas artísticas vigentes,
+                       incluidos el reality show y el erotismo beatífico. Podría haber
+                       sucedido sin edificio, pero es la arquitectura la que, como huella,
+                       como pecio, como cuerpo del delito pervive arrumbada en alguna
+                       lóbrega bodega, sucia, oxidada y empolvándose como el Gran Vidrio
+                       fotografiado por Man Ray (Figura 3).
+
+                       Donald Judd en Marfa
+                       En el último tercio del siglo XX comenzaron a proliferar los estudios
+                       que analizaban los débitos de la arquitectura con la escultura, y los
+                       préstamos realizados por la pintura y otras artes paredañas: también
+                       su drogodependencia del dibujo. No pocos de ellos partieron de Italia
+                       y del ámbito anglosajón, de la pluma de los historiadores de la
+                       arquitectura buscando, por ejemplo, en Buonarroti, en Giulio Romano,
+                       en Bernini o en Borromini, las raíces de lo moderno. Este interés no
+                       solo no ha menguado, sino que se ha visto incrementado debido, entre
+                       otras razones, a que en este período crítico ha sido la escultura la que
+                       se ha aproximado, hasta encarnarse en ella, a la arquitectura,
+                       incorporándola a sus competencias, apropiándosela (Maderuelo,
+
+
+                                                                                              15
+                                                                REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                 Figura 3
+         Hilaturas chilenas
+          y transparencias
+           arquitectónicas
+
+
+
+
+ Nota. Fragmento de Philip
+      Johnson fotografiado
+ por Arnold Newman en la
+        Glass House en 1950
+           cubierto por una
+    instalación filiforme de
+Cecilia Vicuña que se apoya
+            en Connecticut.
+
+
+
+16
+#43 · DICIEMBRE 2022
+
+                                                     HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                              PARRA-BAÑÓN, J. J.
+
+
+
+
+                       2008). El espacio arquitectónico y el espacio escultórico aspiran
+                       a ser, dentro y fuera, en el interior y en el exterior, un único espacio
+                       continuo: un fluido indiferente al origen de las formas que lo delimitan.
+
+                       Las cien obras sin título fabricadas con aluminio laminado de Donald
+                       Judd que se exponen de forma permanente en los dos antiguos hangares
+                       de artillería que ocupa la Fundación Chinati, en Marfa (Texas), fueron
+                       construidas a lo largo de cuatro años: entre 1982 y 1986. Judd concibió
+                       esta obra múltiple y reiterativa específicamente para este lugar:
+                       no para ese edificio industrial en el estado y con la apariencia que
+                       tenía cuando lo adquirió, sino para ese edificio una vez que hubiese
+                       sido transformado por él, cuando las viejas puertas de garaje fueran
+                       sustituidas por grandes ventanas cuadradas, por largas series de
+                       paredes transparentes que incorporaran al interior el horizonte fulvo
+                       sin límites, y cuando la cubierta original fuera sustituida por una
+                       bóveda de chapa galvanizada. Las necesidades lumínicas de sus
+                       cien cajas de aluminio sin título, el consumo de luz natural que la
+                       serie demandaba, exigieron la reforma del edificio. El inmobiliario
+                       Donald Judd compra bloques neoyorquinos, bases militares
+                       fronterizas, hangares desahuciados, arquitecturas en expectativa,
+                       vastas extensiones de territorios en los que no pasta el ganado.
+
+                       Si en Nueva York fue la obra plástica la que se adecuó al espacio
+                       previo, la que se acomodó a las habitaciones apenas alteradas, aquí es
+                       la arquitectura preexistente la que se adapta a la nueva arquitectura,
+                       a los cajones reflectantes que, como cálculos biliares, se adueñan de
+                       su vientre. La luz rasante de los ocasos desérticos debe de percutir en
+                       las tersas superficies metálicas, el volumen de aire encerrado encima
+                       de los prismas pulidos hay que duplicarlo, que extenderlo, que
+                       dilatarlo hasta que aspire, como un tornado, las formas regulares. No
+                       son las 100 obras sin título las que se adaptan al medio ambiente sino
+                       la atmósfera la que es obligada a amoldarse a las exigencias de la obra
+                       escultórica, o los requisitos del mueble anónimo y reiterativo.
+
+                       Cada una de las cien obras mide exactamente, o debería de medir
+                       sin margen de error, 41 x 51 x 72 pulgadas. Los prismas son una
+                       pulgada más bajos que los Incomplete Open Cubes de Sol LeWitt,
+                       que deberían medir 42 pulgadas de arista. Si se giraran, si la anchura
+                       se convirtiera en altura, el bloque le serviría a El poeta grabado por
+                       José Ribera (h. 1620) para acodar su melancolía izquierda. Fueron
+                       fabricados, informa la Fundación Chinati, por la Compañía
+                       Lippincott de Connecticut; su construcción e instalación fue
+                       financiada por la Dia Art Foundation. Todos son aparentemente
+                       idénticos por fuera y distintos por dentro (Figura 4).
+
+                       Donald Judd también se ejercitó como urbanista (Llamazares et al.,
+                       2018). Fuera, no lejos de estas 100 obras sin título de aluminio, se
+
+
+                                                                                               17
+                                                                                     REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+Figura 4
+Marfa engarzada en Manhattan
+
+
+
+
+Nota. Tarjeta postal enviada por María
+desde Marfa a Sevilla en 2021 ahombrada
+en un collage de Sol LeWitt titulado Central
+                                               izan, como olvidadas en la horizontalidad del paraje, las 15 obras sin
+Manhattan, 1977.                               título de hormigón que el planificador convertido en paisajista situó
+                                               frente a la frontera con México para que se enhebrara en ellas el
+                                               viento del sur. Comenzaron a construirse en 1980 y terminaron de
+                                               hacerlo en 1984: fueron las primeras piezas del museo a la intemperie.
+                                               Cada una de las que se agrupan forman quince conjuntos dispares
+                                               miden 250 x 250 x 250 (o 500 cuando se adosan) centímetros. El
+                                               grosor de las losas de hormigón es de 25 centímetros. El vacío frontal,
+                                               el hueco del tubo cuadrado, es de 200 x 200 centímetros. Son
+                                               fragmentos de una colosal cañería prehistórica que no llegó a ser
+                                               enterrada en la arena. Se olvidaron de abrir la zanja subterránea que
+                                               debía contenerla, de poner en funcionamiento el mecanismo que
+                                               pretendía conectar los extremos del mundo.
+
+                                               Son quince edificios. Restos de una obra definitivamente inacabada.
+                                               Son las ruinas de una ciudad que no ha concluido, los ladrillos de
+                                               una Babel transoceánica. Es la osamenta dispersa de una ballena
+                                               cartesiana, de la progenitora de Moby Dick cuando surcaba los mares
+
+
+18
+#43 · DICIEMBRE 2022
+
+                                                                                           HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                                                    PARRA-BAÑÓN, J. J.
+
+
+
+
+                                                Figura 5
+        Rogelia se encamina desde el mar hacia el desierto
+                                   al encuentro de Denise
+
+
+
+
+           Nota. Rogelia Cruz Martínez en bañador 1958
+       acompañada por Denise Scott Brown fotografiada
+               por Robert Venturi en Las Vegas en 1966.
+
+
+                                                               inconmensurables que entonces ocupaban estos desiertos. Algún día
+                                                               alguien las cubrirá con una techumbre retráctil, como hoy se cubren
+                                                               las excavaciones arqueológicas patrocinadas por los gobiernos.
+
+                                                               Rogelia Cruz en Guatemala
+                                                               La escultura es una realidad sólida que mantiene relaciones
+                                                               físicas con el cuerpo de la arquitectura. Pero hay otras relaciones
+                                                               conyugales (aunadas por un solo yugo al que ambas empujan en
+                                                               la misma dirección) entre la arquitectura y el arte que no están
+                                                               fundadas en la materia sino en los gestos, en las actitudes y en los
+                                                               comportamientos. Son estas, al igual que las matrimoniales,
+                                                               relaciones políticas y económicas. Son de este tipo, por ejemplo,
+                                                               las favorecidas por la revolucionaria guatemalteca Rogelia Cruz
+                                                               (estudiante de arquitectura y miss), o las destructivamente activadas
+                                                               por Mohamed Atta (arquitecto y piloto) en Nueva York el 11.9.2001
+                                                               (Figura 5). Es decir, acciones que se consideran terroristas y que,
+                                                               aunque quedan excluidas del ámbito del arte, plantean cuestiones
+                                                               esenciales en el conflicto comercial que estas mantienen con la
+                                                               arquitectura hegemónica: por ejemplo, el de la guerra basada en los
+                                                               bombardeos como actividad regeneradora de la ciudad (Sebald, 1999)
+                                                               (Figura 6).
+
+                                                 Figura 6
+                            Incendios, hogueras y pasiones
+
+
+
+
+ Nota. Cartel de la película Lo que arde (Oliver Laxe, 2019)
+ cosido con un trazo rojo a un fotograma de la película de
+            Carl Dreyer La pasión de Juana de Arco (1928).
+
+
+
+                                                                                                                                     19
+                                                                                   REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                            Nemrod en Babel
+                                            Si al arquitecto y piloto aeronáutico Mohamed Atta se le adjudica
+                                            la acción de destruir la torre norte de la Torres Gemelas, al gigante
+                                            Nemrod se le atribuye la decisión de construir una ciudad en el valle
+                                            de Senar tras el diluvio universal con el propósito de que su pueblo
+                                            pudiera refugiarse dentro de ella en el caso de que hubiera nuevas
+                                            inundaciones catastróficas. El Génesis lo nombra y lo encumbra, y
+                                            habla de una torre, de una edificación que se elevaba hacia el cielo al
+                                            igual que hacia él asciende inocente una montaña; una torre quizá
+                                            cónica, como una montaña; tal vez con dimensiones similares a las
+                                            de una montaña accesible. No dice el relato cómo era ni de qué
+                                            constaba esta gran urbe vertical, pero sí informa de que fue
+                                            construida con barro cocido, con piezas de arcilla cohesionadas por
+                                            un engrudo que hoy llamaríamos brea, asfalto, alquitrán o betún.
+
+                                            Tras leer los escasos versículos alusivos al edificio, sospechamos
+                                            que la obra quedó inconclusa: definitiva y duchampianamente
+                                            inacabada. Que la primera ciudad proyectada, que el primer
+                                            rascacielos, no fue completado: no fue rematado, llevado a buen
+                                            término. A la indefinición del relato verbal se le añade la
+                                            incompletitud edilicia: desde entonces, a partir de la insatisfacción
+                                            que dejaron las palabras descriptivas, serán el dibujo y la pintura
+                                            quienes se ocupen de saturar esos vacíos narrativos y sus huecos
+                                            formales. Peter Brueghel el Viejo será uno de ellos: el que establezca
+                                            el canon occidental de la Torre de Babel. Su Torre de Babel de 1543
+                                            es la primera pintura de occidente en la que la arquitectura es la
+                                            protagonista absoluta (Benet, 2003).
+
+                                            Antes y después de los Brueghel fueron los teólogos quienes se
+                                            emplearon en darle un significado moral al proceso constructivo,
+                                            en convertir el proyecto de supervivencia de la especie humana, de
+                                            su lucha contra la hostilidad de la naturaleza, en símbolo religioso.
+                                            Los sacerdotes en sus múltiples jerarquías, patrocinando a los
+                                            artistas a los que les encargarán las imágenes que ellos son
+                                            incapaces de soñar, serán quienes incorporarán a la iconografía de la
+                                            torre babélica el fuego y la destrucción. Ellos, no el azar de un soplete
+                                            que un soldador distraído se olvidó de apagar, ni los dioses, fueron
+                                            quienes incendiaron la Torre de Babel; ellos quienes se solazaban
+                                            viendo cómo ardían bajo el azufre celestial Sodoma y Gomorra, cómo
+                                            se desquiciaban las siete puertas de Jericó y cómo Jonás aguardaba,
+                                            envejeciendo a la sombra caduca de una calabacera agostada, a que
+                                            Nínive sucumbiera por su impiedad. Antes de quemar cuerpos
+                                            humanos en la hoguera, ardieron, inmolaron, inflamaron edificios.
+                                            Con Babel comenzó en el mito el espectáculo de la destrucción de
+                                            la arquitectura: de la muerte del edificio convertida en instalación
+                                            artística. De la arquitectura convertida en antorcha. Después, al
+                                            pastor Eróstato de Éfeso se le ocurrió la performance de prenderle
+
+
+20
+#43 · DICIEMBRE 2022
+
+                                                                                        HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                                                 PARRA-BAÑÓN, J. J.
+
+
+
+
+                                                Figura 7
+                         La hija de Lot yace con su padre
+                        en las inmediaciones de Skoghall
+
+
+
+
+               Nota. Destrucción de Sodoma pintada por
+        Petrus Comestor en el folio 82v de Postilla super
+         Genesim et Exodum (Nicolás de Lyra, 1459-1461)
+         intervenida y lateralmente compenetrada con
+            The Skoghall Konsthall (Alfredo Jaar, 2000).
+
+
+                                                            fuego al templo de Artemisa para llamar la atención de sus
+                                                            conciudadanos y para inscribirse en la posteridad (fue 356 años
+                                                            antes de que naciera Jesús de Nazaret), y 2.356 años después Alfredo
+                                                            Jaar quemará en Skoghall (Suecia) el efímero museo que, construido
+                                                            con madera y papel, había inaugurado el día anterior (Barría, 2020).
+
+                                                            El contendor de Jaar fue concebido para la hoguera, para
+                                                            desaparecer entre las llamas, no así la City de Londres (del 2 al 5
+                                                            de septiembre de 1666) ni las casas miserables de los cerros y las
+                                                            quebradas polícromas de Valparaíso (12 de abril de 2014). Se podría
+                                                            pensar que lo que Alfredo Jaar incineró (aquello tuvo algo de acto
+                                                            sacrificial) no fue la materia suministrada por los bosques y por la
+                                                            mayor industria papelera del mundo, sino el espacio geométrico que
+                                                            definían, quizá la atmósfera sutil que allí dentro había comenzado
+                                                            a gestarse. La arquitectura hay que experimentarla desde dentro;
+                                                            el fuego, que percibirlo desde fuera.
+
+                                                            Incendiar, qué duda cabe, es un verbo del diccionario primitivo de
+                                                            la arquitectura. Transformar en cenizas, descomponer en ascuas,
+                                                            es una acción arquitectónica. Las cenizas, incluidas las volcánicas,
+                                                            son un antiguo, y aún eficaz, material de construcción. Calcinar
+                                                            es transformar en cal: otro de los componentes sustanciales de la
+                                                            arquitectura esencial. El inexplicable incendio del Chiado, en el
+                                                            centro inclinado de Lisboa (25 de agosto de 1988) y el futuro incendio
+                                                            petroquímico de Shanghái son procesos regenerativos que dan
+                                                            origen a espectaculares lienzos (Rembrandt con Jeremías
+                                                            lamentando la destrucción de Jerusalén, 1630), a estremecedores
+                                                            dibujos, a fotografías impactantes (Joel Meyerowitz en 2001 en
+                                                            Nueva York). Quien dice incendio, dice bombardeo (Sebald, 1999),
+                                                            o dice Hiroshima (Figura 7).
+
+                                                            Lara Almarcegui en Otwock
+                                                            Al igual que en la Costa del Sol mediterránea se ensayó con la
+                                                            arquitectura del relax mientras que Rudolf M. Schindler hacía
+                                                            propaganda del desnudo higiénico y Richard Neutra promocionaba
+
+
+                                                                                                                                  21
+                                                                                 REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                            la arquitectura terapéutica, en las afueras de Varsovia, en Otwotk,
+                                            entre finales del XIX y principios del XX, se probó una arquitectura
+                                            foránea adaptándola a los gustos de las clases adineradas que fuera
+                                            útil para el descanso, propicia para la curación y óptima para
+                                            fomentar las relaciones sociales entre sus privilegiados residentes.
+                                            Se construyeron casas de madera en el bosque formando, más que
+                                            una ciudad, un barrio o un conjunto vacacional, al que se podía
+                                            llegar cómodamente en tren desde la capital polaca. Al estilo, a la
+                                            serie afín, al lenguaje común, al repertorio de elementos
+                                            compositivos familiares, lo denominaron Świdermajer.
+
+                                            El ilustrador y arquitecto Michał Elwiro Andriolli fue el responsable
+                                            de un buen número de estas casas de retiro eclécticas, coronadas con
+                                            tejados a dos aguas que sobresalían por todos lados con grandes
+                                            aleros; dotadas con amplias galerías y estancias intermedias entre
+                                            el interior y el exterior en las que sus propietarios podrían solearse
+                                            y exhibirse; con porches, alpendres, pórticos, atrios y dependencias
+                                            acristaladas que eran ineficaces como invernaderos. Todas
+                                            aspiraban a ser mansiones, palacios, decorados monocromos y
+                                            monótonos con incrustaciones de celosías, caserones en los que
+                                            la comunidad judía allí residente fortalecía cada temporada,
+                                            anualmente, sus vínculos. En 1942, informa la web del programa
+                                            “Unregulated Disappearance (s.f.)”: “el 75 % de la población judía de
+                                            Otwock (8.000 personas) fue reunida por los nazis y transportada
+                                            a los campos de concentración de Treblinka y Auschwitz. Los judíos
+                                            restantes fueron fusilados”.
+
+                                            Abandonadas a su destino, deshabitadas, asesinados sus moradores,
+                                            cedidas como alimento a los xilófagos, torturadas por el nazismo,
+                                            las casas de Otwotk comenzaron su lenta agonía de elefante. El
+                                            tiempo y la ruina devoraron, como tantas otras veces ha sucedido,
+                                            el estilo Świdermajer. La vejez, la carcoma, la desidia y la
+                                            especulación se aliaron. Aunque muchos de estos edificios fueron
+                                            catalogados para preservarlos, bastantes de ellos fueron ilegalmente
+                                            demolidos, casualmente incendiados, descuidadamente acelerada
+                                            su descomposición.
+
+                                            En el año 2011 la curadora Kasia Redzisz y el artista Mirosław
+                                            Balka invitaron a la española Lara Almarcegui a intervenir
+                                            quirúrgicamente en ese problema zoológico, en ese tejido tumoral,
+                                            en esa crisis arquitectónica. Almarcegui buscó ayuda y encontró
+                                            una de las villas irreparables, de las condenadas burocráticamente
+                                            a la destrucción; e investigó y encontró una empresa especializada
+                                            en demoliciones. Ella se dedicó entonces a documentar el proceso
+                                            de eliminación de la arquitectura, de borradura del paisaje de ese
+                                            edificio condenado (recuérdese a Rauschenberg erradicando un
+                                            dibujo de De Kooning). La artista es la notaria que levanta acta
+
+
+22
+#43 · DICIEMBRE 2022
+
+                                                                                         HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                                                   PARRA-BAÑÓN, J. J.
+
+
+
+
+                                               Figura 8
+      Juan Luis Martínez profetiza los sucesos de Otwock
+
+
+
+
+   Nota. Casa en Otwock demolida en 2011 mientras Lara
+  Almacegui documentaba el proceso, vecina de las casas
+       desequilibradas de la portada de La nueva novela,
+               publicada por Juan Luis Martínez en 1997.
+
+
+                                                           del suceso mortuorio, del rito funeral: no la que hace la autopsia,
+                                                           sino la que hace fotografías y describe con sus palabras los
+                                                           acontecimientos. La artista es la que promueve y registra la
+                                                           disolución de la arquitectura, sin tan siquiera tocarla. No se mancha.
+                                                           No es la que restituye a la tierra o al bosque lo que al bosque y a la
+                                                           tierra le pertenecen, sino la que deja constancia. La arquitectura es
+                                                           ahora lo que ya no tiene conciencia, ni perseverancia.
+
+                                                           Al equívoco arquitecto porteño llamado Juan Luis Martínez, al que
+                                                           se entretuvo en componer La nueva novela (1997) usando tijeras, a
+                                                           quien le gustaba suscribir sus obras firmándolas como Juan Luis
+                                                           Martínez, aunque no le resultara muy novedosa, tal vez le hubiera
+                                                           llamado la atención la iniciativa de Lara Almacegui y le habría
+                                                           dedicado (escrito en “Pajarístico”) un poema de tres versos. También
+                                                           a Kafka (Figura 8).
+
+                                                           Soledad Sevilla en Vélez Blanco
+                                                           Soledad Sevilla proyectó durante tres días de 1992 en los muros
+                                                           desnudos del castillo y palacio de los Marqueses de Fajardo en Vélez
+                                                           Blanco (Almería) imágenes del antiguo patio de honor del que había sido
+                                                           desposeído, de la arquitectura renacentista de la que este Monumento
+                                                           Nacional fue despojado, y que hoy en día se exhibe entre París y Nueva
+                                                           York. La artista española denominó a esta instalación Mayo 1904-1992.
+                                                           El anticuario francés J. Goldberg compró el soberbio e inédito patio en
+                                                           1904, a precio de escombro, y se lo llevó a su país, vendiéndoselo en 1913
+                                                           al coleccionista de arte de origen alemán (y ciudadano estadounidense)
+                                                           George Blumenthal. El financiero lo trasladó y lo empleó en la
+                                                           construcción de su nueva mansión en Nueva York, en el 50 East 70th
+                                                           Street, en la esquina suroeste de Park Avenue (Tilles, 2021). El edificio,
+                                                           levantado con sillares de piedra caliza, con cuatro pisos de altura, fue
+                                                           eclécticamente proyectado por Trowbridge & Livingston. Tras la muerte
+                                                           de Blumenthal 1941, que fue presidente del Hospital Mount Sinai y del
+                                                           Metropolitan Museum of Art, el patio fue donado a este museo, donde lo
+                                                           recompusieron en 1964 y lo abrieron al público.
+
+
+                                                                                                                                   23
+                                                                                                    REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                                Figura 9
+        Ascensión Lafont lamentándose del expolio egetano
+
+
+
+
+                Nota. Triangulación del castillo-palacio de
+    los Marqueses de Fajardo en Vélez Blanco fotografiado
+por: Bernard Rudofsky para The Prodigious Builders (1977);
+        por José Ortiz Echagüe hacia 1930 y retratado en la
+ George Blumenthal Residence de Nueva York hacia 1920.
+
+
+                                                              La reconstrucción incompleta fue, al contrario de lo que aseguraban
+                                                              las guías, falsamente fidedigna: parte de los relieves permanecen
+                                                              expuestos en el Musée des Arts Décoratifs de París y en el Musée
+                                                              Goya de Castres. El patio se cubrió, profanando su carácter de espacio
+                                                              a la intemperie, y se utilizó como una sala más del MET, decorándolo
+                                                              con esculturas impertinentes, desvirtuándolo y humillándolo.
+                                                              Soledad Sevilla fotografió tal recreación y devolvió, restituyó
+                                                              imaginariamente el patio desterrado a su lugar de origen. Las
+                                                              diapositivas se comenzaban a proyectar en Vélez Blanco a cielo
+                                                              abierto al inicio de la tarde, cuando la luz natural aún no permitía
+                                                              distinguir las formas, que se iban develando lentamente, conforme
+                                                              el sol iba ocultándose. El ocaso, la oscuridad devolvía ilusoriamente,
+                                                              poéticamente, los mármoles expoliados al lugar para el que fueron
+                                                              concebidos, trenzando en un solo y recio hilo la propuesta artística
+                                                              con el proyecto de arquitectura y con la acción política reivindicativa
+                                                              (Figura 9).
+
+                                                              CONCLUSIONES (y deseos)
+                                                              El arte, siempre depredador, también en el siglo XXI intenta
+                                                              agrandar su territorio, ampliar sus dominios, ensanchar sus
+                                                              fronteras incorporando lo aledaño, dominar a las disciplinas vecinas
+                                                              inoculándole propósitos que, a priori, no tenían en consideración.
+                                                              Este impulso voraz es contrarrestado por otras fuerzas que,
+                                                              atendiendo a la entropía, procuran mantener un cierto equilibrio
+                                                              territorial controlando la avaricia de las artes pudientes: tal vez,
+                                                              como temía George Steiner (2011) a finales del siglo XX, la ciencia
+                                                              y la tecnología ya se han apropiado (quizá no por completo, o no
+                                                              definitivamente) de las atribuciones que antes le estaban reservadas
+
+
+24
+#43 · DICIEMBRE 2022
+
+                                                       HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                  PARRA-BAÑÓN, J. J.
+
+
+
+
+                       al arte; y lo lúdico haya reemplazado a lo estético, y el videojuego,
+                       por ejemplo, al museo. La arquitectura, como un cráter, está hoy en
+                       medio de este conflicto competencial entre la ciencia y el arte, entre
+                       la tecnología y las emociones. Debatiéndose entre sí, apuesta por la
+                       realidad virtual, la inteligencia mecánica, la digitalización de las
+                       sensaciones, el tedio de las computadoras o el barro y la caligrafía.
+
+                       Las artes, a menudo bipolares, se afanan unas veces, en ciertos
+                       períodos, al igual que hacen los felinos con sus feromonas, en marcar
+                       y diferenciar con adjetivos prescindibles su territorio (las artes vivas,
+                       para el teatro; las artes visuales para el ojo; las artes plásticas, las artes
+                       escénicas, las dinámicas, las sonoras, las perfomativas, las espaciales,
+                       inmersivas, totales, etc., etc., etc.) con el objetivo de evitar
+                       intromisiones, jurisdicciones y apropiaciones indebidas. En otras
+                       ocasiones, proceden haciendo todo lo contrario: extralimitándose,
+                       invadiendo, apropiándose del contorno, considerando que es de su
+                       patrimonio la física atómica y la ingeniería computacional, que el
+                       acelerador de partículas francosuizo es una pieza subterránea de
+                       Judd y que Santiago Ramón y Cajal fue un dibujante que se entretenía
+                       investigando neuronas. Acorde con esta estrategia invasora no debe
+                       extrañar que el término Gesamtkunstwerk, casi recién nacido, se
+                       generalizara y comenzara a adosarse a las más dispares disciplinas,
+                       dando lugar a expresiones, tal vez fraudulentas, como ‘arquitectura
+                       total’ o ‘diseño total’ (Munch, 2021), o bien ‘teatro total’, ya que, así
+                       apellidadas, podían reclamar que eran el lugar en el que las demás
+                       confluían: la casa en la que las demás debían de darse cita.
+
+                       Por otro lado, en la arquitectura se viven similares tensiones, sístoles
+                       y diástoles paralelas, también alentadas por los escenarios de la
+                       incertidumbre y estresadas por los mercados. La arquitectura, que
+                       desde su origen compite por lograr su autonomía, en la modernidad
+                       se ha sentido amenazada por la política, por la ingeniería (Rosado-
+                       García y García-García, 2022), la arqueología, la decoración, el
+                       interiorismo, etc., al mismo tiempo que peleaba por dejar de ser
+                       un arte (por emanciparse de las Bellas Artes, en cuyas facultades se
+                       estudiaba desde el XIX), sin aspirar a ser considerada ni una técnica
+                       ni una ciencia, siempre incómoda en el sector inmobiliario, en
+                       desacuerdo con ser valor de cambio, salario, moda. El arte y la
+                       arquitectura, en definitiva, buscando su lugar, obcecados en
+                       conquistar su propio espacio, a pesar de que son conscientes de
+                       que hay un solo lugar y un único espacio que compartir. Sabedoras
+                       de que Jannis Kounellis siempre hizo arquitectura, aunque a él
+                       no lo moviera esa intención; de que João Sarmento cuando pintaba
+                       mujeres sin cabeza pintaba edificios y que cuando dibujaba
+                       perspectivas de villas racionalistas pertenecientes a las clases
+                       acomodadas de Portugal estaba caligrafiando fragmentos de la
+                       existencia. Y conscientes de que Álvaro Siza perfora estaciones de
+
+
+                                                                                                   25
+                                                                                                         REVISTA DE ARQUITECTURA VOL. 27
+
+INVESTIGACIÓN EN TEORÍA ARQUITECTÓNICA
+
+ALGUNAS RELACIONES CONYUGALES ENTRE LA ARQUITECTURA Y EL ARTE
+
+
+
+
+                                               Figura 10
+            Correspondencias formales entre Hilma af Klint
+                                  y Francisco de Holanda
+
+
+
+
+     Nota. Fiat lux, en folio 3r De aetatibus mundi imagines,
+       1545-1573, de Francisco de Holanda (BNE. dib/14/26)
+     emparentado cuatro siglos después con Group X, Nº. 2,
+                           Altarpiece, 1915, de Hilma af Klint.
+
+
+                                                                  metro (en Oporto o en Nápoles) y capillas y ermitas (en el Algarve o
+                                                                  en Corea) como soporte de sus bocetos profanos, delineados
+                                                                  magistralmente sobre luminosos azulejos (Parra-Bañón, 2021).
+
+                                                                  No se trataría, en consecuencia, tanto de añadir, de superponer, de
+                                                                  entreverar o machihembrar, ni de integrar o injertar la arquitectura
+                                                                  en el arte, como de fundir el arte y la arquitectura en una misma
+                                                                  entidad: de confundir, de ensayar, de nuevo, la antigraphia que fue
+                                                                  referida al inicio. La raíz anti- en la palabra antigraphia no significa
+                                                                  “en contra de” (antipatía) sino “a favor de” (antigüedad): alude a lo que
+                                                                  está antes de, a lo que es previo a. La antigrafía que aquí se postula es
+                                                                  la que concilia a todo aquello que es anterior al proceso de dispersión
+                                                                  de lo gráfico en diferentes disciplinas y categorías: reivindica, a partir
+                                                                  de la teoría del portugués Francisco de Holanda, la cofradía orgiástica
+                                                                  de todas las manifestaciones creativas, plásticas o literarias,
+                                                                  dinámicas como la cinematografía y la danza, o estáticas como la
+                                                                  arquitectura grecolatina y la melancolía. Propone, si acaso esto es
+                                                                  posible, el amor desaforado entre la arquitectura y todas las artes.
+                                                                  Incita a considerar que el lugar de la arquitectura y el del arte son un
+                                                                  mismo lugar, y también que los actos artísticos son hechos
+                                                                  esencialmente arquitectónicos (Figura 10).
+
+
+
+
+26
+#43 · DICIEMBRE 2022
+
+                                                                                     HTTPS://DOI.ORG/10.5354/0719-5427.2022.68073
+
+                                                                                                                  PARRA-BAÑÓN, J. J.
+
+
+
+
+REFERENCIAS            Bahamondes, P. (6 de febrero de 2020). Voyerismo,        Parra-Bañón, J. J. (2022). Arquitectura y
+                              morbo y abuso: La historia secreta de la                 transparencia. Correspondencias literarias
+                              Casa de Vidrio a 20 años de su instalación.              recientes. Espacio Tiempo y Forma. Serie VII,
+                              The Clinic. https://www.theclinic.                       Historia del Arte, (10), 201-223. https://doi.
+                              cl/2020/02/06                                            org/10.5944/etfvii.10.2022.32294
+                       Barría Chateau, H. (2020). Locus suspectus: sobre        Rosado-García, M. J. y García-García, M. J. (2022).
+                              lo siniestro en la arquitectura de Alfredo               ¿Por qué no se considera la obra de
+                              Jaar. Revista 180, (45), 38-47. http://www.              ingeniería una obra de arte? Informes de la
+                              revista180.udp.cl/index.php/revista180/                  Construcción, 74(567), e455. https://doi.
+                              article/view/642                                         org/10.3989/ic.90020
+                       Benet, J. (2003). La construcción de la torre de         Savinio, A. (1997). Nueva enciclopedia. Seix Barral.
+                              Babel. Siruela.                                   Sebald. W. G. (1999). Sobre la historia natural de
+                       De Holanda, F. (2018). Diálogos de Roma.                        la destrucción. Anagrama.
+                              Acantilado.                                       Steiner. G. (2011). Gramáticas de la creación.
+                       Gerber, V. (2021). En una orilla brumosa. Cinco rutas           Siruela.
+                              para repensar los futuros de las artes            Tilles, R. (2021). The Artistic Patronage and
+                              visuales y la literatura. Gris Tormenta.                 Transatlantic Connections of Florence
+                       Judd, D. (11 de mayo de 2021). 101 Spring Street.               Blumenthal. 19: Interdisciplinary Studies
+                              Places Journal. Recuperado el 22 de agosto               in the Long Nineteenth Century, 2020 (31).
+                              de 2022. https://doi.org/10.22269/110505                 https://doi.org/10.16995/ntn.3349
+                       Llamazares, P., Zaparaín, F. y Ramos, J. (2018).         Unregulated Disappearance. (s.f.). Lara Almarcegui
+                              Objetos en la ciudad. Donald Judd y el                   Demolition of a Wooden House Otwock,
+                              proyecto para la calle Steinberggasse de                 Poland 2011. https://archiveofdestruction.
+                              Winterthur. Proyecto Progreso Arquitectura,              com/artwork/demolition-of-a-wooden-
+                              (19). http://dx.doi.org/10.12795/ppa.2018.               house/
+                              i19.04                                            Wagner, R. (2007). La obra de arte del futuro.
+                       Maderuelo, J. (2008). La idea de espacio en la                  Universitat de Valencia; Servei de
+                              arquitectura y el arte contemporáneos, 1960-             Publicacions.
+                              1989. Akal.                                       Yarinsky, A. (mayo de 2011). Donald Judd
+                       Marchán-Fiz, S. (2008). La obra de arte total:                  and the Blooming of Reality. Places Journal.
+                              Génesis de una categoría estético-artística y            Recuperado el 22 de agosto de 2022. https://
+                              sus transformaciones. Fundación Mapfre.                  doi.org/10.22269/110503
+                       Martínez, J. L. (1997). La nueva novela.
+                              Ediciones Archivo.
+                       Munch, A. V. (2021). The Gesamtkunstwerk in Design
+                              and Architecture. From Bayreuth to
+                              Bauhaus. Aarhus Universitetsforlag.
+                       Parra-Bañón, J. J. (2021). Arquitecturas para la
+                              soledad. Proliferación y pandemia de
+                              capillas aisladas [versiones chilenas].
+                              Arquitecturas del Sur, 39(59), 98-117. https://
+                              doi.org/10.22320/07196466.2021.39.059.06
+
+
+
+
+                                                                                                                                        27
+
